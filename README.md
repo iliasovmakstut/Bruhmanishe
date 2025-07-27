@@ -1,4 +1,14 @@
-## Hi there 👋
+## I'm beginning JS/React/Node.js dev. Currently loooking for a job.
+
+## My biggest project yet
+
+# Sound Based Game
+![](sound_game_gif.gif)
+
+Fully made using canvas element, the whole concept is based on the idea that user can choose any music on his devise and game will play as intense as music is.
+It adapted both for mobile and PC.
+
+[You can try it yourself here](https://onlinesoundgame.onrender.com/)
 
 <!--
 **Bruhmanishe/Bruhmanishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
