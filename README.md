@@ -2,7 +2,7 @@
 
 **My biggest project yet**
 
-##**Sound Based Game**
+##Sound Based Game
 ![](sound_game_gif.gif)
 
 Fully made using canvas element, the whole concept is based on the idea that user can choose any music on his devise and game will play as intense as music is.
